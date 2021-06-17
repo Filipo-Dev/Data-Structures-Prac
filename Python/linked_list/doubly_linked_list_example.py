@@ -13,7 +13,7 @@ def main():
     print(" ")
     doubly_list.front_traversal()
 
-    # Insert at end
+    # Insert at the end
     print(" ")
     doubly_list.insert_at_end(data="figs")
     doubly_list.front_traversal()
