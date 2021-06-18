@@ -62,7 +62,7 @@ class CreditCard:
         def get_charge(self, price):
             """
             Charge given price to the card, assuming sufficient credit limit.
-            Return True if charge was processed; False if charge was denied.
+            Return True if charge was processed; False if charge was not processed.
             :param self: references the instance of the class.
             :param price: the price of the item.
             :return: bool: True if charge was processed;
