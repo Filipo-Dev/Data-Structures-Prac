@@ -7,9 +7,9 @@ class CreditCard:
         """
          Create a new credit card instance.
          The initial balance is zero.
-        :param customer: the name of the customer (e.g., 'John Bowman')
+        :param customer: the name of the customer (e.g. 'John Bowman')
         :param bank: the name of the bank (e.g., 'California Savings')
-        :param account: the account identifier (e.g., '5391 0375 9387 5309')
+        :param account: the account identifier (e.g. '5391 0375 9387 5309')
         :param limit: credit limit (measured in dollars)
         """
 
