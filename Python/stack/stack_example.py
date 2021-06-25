@@ -16,7 +16,7 @@ def reverse_string(sentence):
 
 def main():
 
-    sentence = "We will conquere COVID-19"
+    sentence = "We will conquer COVID-19"
 
     reverse_string(sentence)
 
