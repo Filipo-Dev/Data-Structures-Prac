@@ -7,7 +7,7 @@ def reverse_string(sentence):
 
     splitted_sentence = sentence.split(" ")
 
-    for word in splitted_sentence:
+    for word in splited_sentence:
         stack_container.push(word[::-1])
 
     for word in range(len(splitted_sentence)):
